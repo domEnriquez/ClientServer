@@ -1,2 +1,5 @@
-﻿  Client.cpp
+﻿  stdafx.cpp
+  Source.cpp
+  Client.cpp
+  Generating Code...
   Client.vcxproj -> C:\GitRepos\ClientServer\Client\Debug\Client.exe
